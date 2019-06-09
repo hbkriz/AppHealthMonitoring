@@ -1,0 +1,13 @@
+C:\Users\Balakh\Desktop\Monitor\bin\Debug\netcoreapp2.2\MonitorApi.deps.json
+C:\Users\Balakh\Desktop\Monitor\bin\Debug\netcoreapp2.2\MonitorApi.runtimeconfig.json
+C:\Users\Balakh\Desktop\Monitor\bin\Debug\netcoreapp2.2\MonitorApi.runtimeconfig.dev.json
+C:\Users\Balakh\Desktop\Monitor\bin\Debug\netcoreapp2.2\MonitorApi.dll
+C:\Users\Balakh\Desktop\Monitor\bin\Debug\netcoreapp2.2\MonitorApi.pdb
+C:\Users\Balakh\Desktop\Monitor\obj\Debug\netcoreapp2.2\MonitorApi.csproj.CoreCompileInputs.cache
+C:\Users\Balakh\Desktop\Monitor\obj\Debug\netcoreapp2.2\MonitorApi.RazorAssemblyInfo.cache
+C:\Users\Balakh\Desktop\Monitor\obj\Debug\netcoreapp2.2\MonitorApi.RazorAssemblyInfo.cs
+C:\Users\Balakh\Desktop\Monitor\obj\Debug\netcoreapp2.2\MonitorApi.AssemblyInfoInputs.cache
+C:\Users\Balakh\Desktop\Monitor\obj\Debug\netcoreapp2.2\MonitorApi.AssemblyInfo.cs
+C:\Users\Balakh\Desktop\Monitor\obj\Debug\netcoreapp2.2\MonitorApi.RazorTargetAssemblyInfo.cache
+C:\Users\Balakh\Desktop\Monitor\obj\Debug\netcoreapp2.2\MonitorApi.dll
+C:\Users\Balakh\Desktop\Monitor\obj\Debug\netcoreapp2.2\MonitorApi.pdb

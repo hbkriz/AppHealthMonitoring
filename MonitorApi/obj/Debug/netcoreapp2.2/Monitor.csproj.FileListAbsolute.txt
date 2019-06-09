@@ -1,0 +1,14 @@
+C:\Users\Balakh\Desktop\Monitor\bin\Debug\netcoreapp2.2\Monitor.deps.json
+C:\Users\Balakh\Desktop\Monitor\bin\Debug\netcoreapp2.2\Monitor.runtimeconfig.json
+C:\Users\Balakh\Desktop\Monitor\bin\Debug\netcoreapp2.2\Monitor.runtimeconfig.dev.json
+C:\Users\Balakh\Desktop\Monitor\bin\Debug\netcoreapp2.2\Monitor.dll
+C:\Users\Balakh\Desktop\Monitor\bin\Debug\netcoreapp2.2\Monitor.pdb
+C:\Users\Balakh\Desktop\Monitor\obj\Debug\netcoreapp2.2\Monitor.csproj.CoreCompileInputs.cache
+C:\Users\Balakh\Desktop\Monitor\obj\Debug\netcoreapp2.2\Monitor.RazorAssemblyInfo.cache
+C:\Users\Balakh\Desktop\Monitor\obj\Debug\netcoreapp2.2\Monitor.RazorAssemblyInfo.cs
+C:\Users\Balakh\Desktop\Monitor\obj\Debug\netcoreapp2.2\Monitor.AssemblyInfoInputs.cache
+C:\Users\Balakh\Desktop\Monitor\obj\Debug\netcoreapp2.2\Monitor.AssemblyInfo.cs
+C:\Users\Balakh\Desktop\Monitor\obj\Debug\netcoreapp2.2\Monitor.RazorTargetAssemblyInfo.cache
+C:\Users\Balakh\Desktop\Monitor\obj\Debug\netcoreapp2.2\Monitor.dll
+C:\Users\Balakh\Desktop\Monitor\obj\Debug\netcoreapp2.2\Monitor.pdb
+C:\Users\Balakh\Desktop\Monitor\obj\Debug\netcoreapp2.2\Monitor.csprojAssemblyReference.cache
